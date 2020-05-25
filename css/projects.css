@@ -11,7 +11,7 @@ body{
 }
 
 .rotatePic {
-    -webkit-transform: rotate(-90deg) translateX(-50px);
+    -webkit-transform: rotate(90deg);
 
 }
 
